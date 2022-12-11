@@ -1,0 +1,40 @@
+header {
+  color: #ffffff;
+}
+
+.header-container {
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 26px;
+  height: 100px;
+  width: 600px;
+}
+
+.saldo {
+   font-size: 16px;
+}
+
+.app-title {
+  width: 43%;
+  margin-top: 15px;
+}
+
+.wallet-balance {
+  height: 60px;
+  width: 20%;
+}
+
+.wallet-balance p {
+  padding-top: 3px;
+  line-height: 150%;
+}
+
+.home {
+  width: 40px;
+  margin-left: 30px;
+  margin-right: 50px;
+}

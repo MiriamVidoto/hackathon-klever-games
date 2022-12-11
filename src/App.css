@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background-color: #171833;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  background: rgb(44,23,84);
+background: radial-gradient(circle, rgba(44,23,84,1) 5%, rgba(19,2,51,1) 65%, rgba(19,2,51,1) 81%, rgba(19,2,51,1) 100%);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.games-choice {
+  margin-top: 20%;
+  display: flex;
+  flex-direction: row;
+}
+.game {
+  margin: 10px;
+  font-size: 21px;
+  width: 300px;
+  height: 50px;
+  border-radius: 8px;
+}
+.game-container {
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  color: #FFFFFF;
+  margin: 6%;
+  font-size: 36px;
+}
+.game-info {
+  display: flex;
+  justify-content: center;
+}
+.score-container {
+  background-color: #AA33B5;
+  font-Size: 26px;
+  color: #FFFFFF;
+  width: 200px;
+  height: 100px;
+  border-radius: 50px;
+  margin-right: 10%;
+}
+.attempts-container {
+  background-color: #AA33B5;
+  font-Size: 26px;
+  color: #FFFFFF;
+  color: 'white';
+  width: 200px;
+  height: 100px;
+  border-radius: 50px;
+}
+.options-container {
+  display: flex;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.button-options {
+  margin-right: 50px;
+  background-color: transparent;
+  border: none;
+}
+.paperImage {
+  width: 150px;
+  height: 150px;
+}
+.choice-container {
+  display: flex;
+  justify-content: space-around;
+  /* margin-bottom: 10px; */
+}
+.choice {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: #AA33B5;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+}
+.choice p {
+  font-Size: 18px;
+  color: #FFFFFF;
+}
+.choice img {
+  width: 150px;
+  height: 150px;
+}
+.result-text {
+  color: #FFFFFF;
+  font-Size: 26px;
+}
+.feedback-negative {
+  color: #FFFFFF;
+  font-size: 28px;
+}
+.feedback-positive {
+  color: #FFFFFF;
+  font-size: 32px;
+}
+.btn-submit {
+  font-size: 24px;
+  border-radius: 8px;
+  padding: 8px;
+}
+.btn-submit:hover {
+  background-color: #716784;
+  color: #FFFFFF;
+  border: 3px solid black;
+}
+.card-container {
+  display: flex;
+  height: 300px;
+  width: 600px;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  color: #FFFFFF;
+  font-size: 26px;
+  width: 30%;
+  margin-top: 20px;
+  margin-left: -300px;
+}
+.image-card {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 150px;
+}
+.button-scratch {
+  height: 40px;
+  font-size: 16px;
+  margin-top: 10%;
+  margin-left: -5px;
+  border-radius: 8px;
+}

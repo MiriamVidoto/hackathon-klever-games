@@ -19,7 +19,6 @@
 .cardMemory .front.matched{
     background-color:  #70ff6b;
 }
-
 .flipped .front {
     
     transform: rotateY(0deg);

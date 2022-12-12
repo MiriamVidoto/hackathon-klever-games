@@ -31,6 +31,8 @@ function MemoryGame() {
   const [disabled, setDisabled] = useState(true);
   const [startFlip, setStartFlip] = useState(true);
 
+  // Finished!
+
   useEffect(() => {
     setTimeout(() => {
       setStartFlip(false);

@@ -27,4 +27,4 @@ Cada vez que você completa um jogo, você ganha uma certa quantidade de criptom
 
 ## Equipe de desenvolvimento
 
-Este projeto foi desenvolvido por [Diego Sabino](https://github.com/diego-sabino), [Miyuki Ishii](https://github.com/miyukishii), [Ady Luna](https://github.com/adyluna), [Miriam Vidoto](https://github.com/MiriamVidoto) e [Jorge Casé](https://github.com/JorgeCase).
+Este projeto foi desenvolvido em grupo por [Diego Sabino](https://github.com/diego-sabino), [Miyuki Ishii](https://github.com/miyukishii), [Ady Luna](https://github.com/adyluna), [Miriam Vidoto](https://github.com/MiriamVidoto) e [Jorge Casé](https://github.com/JorgeCase).
